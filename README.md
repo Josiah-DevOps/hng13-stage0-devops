@@ -3,6 +3,6 @@
 **Name:** Josiah Favour 
 **Slack Username:** @Five  
 **Project Description:**  
-This is my HNG Stage 0 DevOps challenge.  
+ HNG Stage 0 DevOps challenge.  
 
-**Server IP/Domain:** 
+**Server IP/Domain:** 207.154.235.7
